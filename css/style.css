@@ -1,0 +1,27 @@
+@import "reset.css";
+.header{
+  width: 1205px;
+  margin: 0 auto;
+}
+.header .quick_nav{
+  height: 30px;
+  line-height: 30px;
+}
+.header .quick_nav ul{
+  float: right;
+}
+.header .quick_nav ul li{
+  display: inline-block;
+  margin-left:35px;
+}
+.header .wrap>a>img{
+  margin-left: -60px;
+}
+.header .wrap ul{
+  float: right;
+}
+.header .wrap ul li{
+  display: inline-block;
+  line-height: 100px;
+  margin-left:20px;
+}
